@@ -1,9 +1,12 @@
 {
   "name": "untility",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "scripts": {
-    "start": "node ./test.js"
+    "start": "node ./test.js",
+    "myInstall": "npm install"
   },
-  "bin" : { "ext" : "npm run start" }
 
+  "dependencies": {
+    "lodash": "*"
+  }
 }
