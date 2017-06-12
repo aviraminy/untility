@@ -1,7 +1,9 @@
 {
   "name": "untility",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "scripts": {
     "start": "node ./test.js"
-  }
+  },
+  "bin" : { "ext" : "npm run start" }
+
 }
