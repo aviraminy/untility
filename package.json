@@ -1,7 +1,7 @@
 {
   "name": "untility",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
-    "start": "cat ./package.json"
+    "start": "node ./test.js"
   }
 }
