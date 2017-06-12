@@ -2,6 +2,6 @@
   "name": "untility",
   "version": "0.0.1",
   "scripts": {
-    "start": "echo 'i am running'"
+    "start": "cat ./package.json"
   }
 }
